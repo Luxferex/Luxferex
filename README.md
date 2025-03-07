@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Georgio Armando Woda Kolo</h1>
+<h1 align="center">Hello world! 👋 I'm Georgio Armando Woda Kolo</h1>
 <p align="center">
   🔥 Passionate about technology | 🚀 Full-Stack Developer | 🎨 Software Enthusiast
 </p>
