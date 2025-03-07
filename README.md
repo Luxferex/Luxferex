@@ -92,7 +92,7 @@
   <a href="mailto:georgioarmando8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/georgio88" target="_blank">
+  <a href="https://linkedin.com/in/georgioarmando88" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </div>
