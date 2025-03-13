@@ -78,7 +78,7 @@
 
 ### 📊 GitHub Stats  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luxferex&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luxferex&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxferex&theme=tokyonight" alt="GitHub Streak" width="15%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxferex&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </div>
